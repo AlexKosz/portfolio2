@@ -42,6 +42,6 @@
 body {
   width: 100%;
   font-family: var(--font);
-  color: var(--color-txt);
+  color: rgb(149, 56, 180);
   
 }
