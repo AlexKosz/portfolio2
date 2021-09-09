@@ -3,8 +3,10 @@ import './About.css'
 const About = () => {
     return (
         <div className="about">
-            <p>About me</p>
-            <h1>I am a full stack developer with a specialty in React</h1>
+            <h1>About me</h1>
+            <h2>I am a full stack developer with a specialty in MERN (Mongo, Express, React and Node)</h2>
+            <h3>I also have skills in Python (Flask) and Java (Spring Boot)</h3>
+            <p>I am a recent bootcamp graduate seeking to switch careers to follow my recently found passion of development</p>
         </div>
     )
 }
